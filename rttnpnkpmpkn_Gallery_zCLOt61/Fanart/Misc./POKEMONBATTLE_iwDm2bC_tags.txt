@@ -1,0 +1,6 @@
+pokemon_trainer
+pokemon_oc
+pokemon
+battle
+pokemon_grunt
+oc
